@@ -15,7 +15,7 @@ This repository contains a simple REST API built using Laravel, following the co
 
 ## Introduction
 
-This Laravel REST API is a basic implementation based on the tutorial mentioned in the [YouTube link](#) (replace with the actual link). It provides a foundation for building and extending a fully functional API using Laravel.
+This project provides a foundation for building and extending a fully functional API using Laravel.
 
 ## Installation
 
